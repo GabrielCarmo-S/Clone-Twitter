@@ -1,46 +1,55 @@
 import React from 'react';
 
-import { Container, Banner, Avatar, ProfileData, LocationIcon, CakeIcon, Followpage} from './styles';
+import {
+  Container,
+  Banner,
+  Avatar,
+  ProfileData,
+  LocationIcon,
+  CakeIcon,
+  Followpage,
+  EditButton,
+} from './styles';
 
 const ProfilePage: React.FC = () => {
   return (
     <Container>
       <Banner>
-        <Avatar/>
+        <Avatar />
       </Banner>
 
       <ProfileData>
-        {/* <EditButton outlined>Editar Perfil</EditButton> */}
+        <EditButton outlined>Editar perfil</EditButton>
+
         <h1>Gabriel Carmo</h1>
-        <h2>@gabrielcarmo-s</h2>
+        <h2>Gabriel Carmo</h2>
 
         <p>
-          Developer at <a href="https://github.com/GabrielCarmo-S">Gabriel Carmo</a>
+          Developer at <a href="https://rocketseat.com.br">@Rocketseat</a>
         </p>
 
         <ul>
           <li>
             <LocationIcon />
-            Bauru, São Paulo.
+            São Paulo, Brasil
           </li>
           <li>
             <CakeIcon />
-             Nascido em 04 de agosto de 2020.
+            Nascido(a) em 21 de junho de 2001
           </li>
         </ul>
 
         <Followpage>
           <span>
-            seguindo <strong>100</strong>
+            seguindo <strong>94</strong>
           </span>
           <span>
-            <strong>100 </strong> seguidores
+            <strong>672 </strong> seguidores
           </span>
         </Followpage>
       </ProfileData>
     </Container>
-
   );
-}
+};
 
 export default ProfilePage;
