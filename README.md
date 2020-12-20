@@ -21,4 +21,4 @@ e principalmente a utilização do Git nos meus projetos. Durante todo o process
 <p>Valeu, <a href="https://github.com/guilhermerodz">Guilherme Rodz</a>! :D </p>
 <hr>
 
-<h4 align="center"> Feito por Gabriel armo </h4>
+<h4 align="center"> Feito por Gabriel Carmo </h4>
