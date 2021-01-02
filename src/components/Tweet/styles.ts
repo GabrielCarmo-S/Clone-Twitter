@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-
+import { Chat, Rocketseat, Favorite} from '../../styles/Icons';
 
 export const Container = styled.div`
   display: flex;
@@ -21,15 +21,49 @@ export const Retweeted = styled.div`
   color: var(--gray);
 `;
 
-export const RocketseatIcon = styled.div``;
+export const RocketseatIcon = styled(Rocketseat)`
+  width: 16px;
+  height: 16px;
 
-export const Body = styled.div``;
+  margin-left: 35px;
+  margin-right: 9px;
 
-export const Avatar = styled.div``;
+  >path {
+    fill: var(--gray);
+  }
+`;
 
-export const Content = styled.div``;
+export const Body = styled.div`
+  display: flex;
+  margin-top: 3px;
+
+  position: relative;
+`;
+
+export const Avatar = styled.div`
+  width: 49px;
+  height: 49px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  background: var(--gray);
+
+  position: absolute;
+  top: 0;
+  left: 0;
+`;
+
+export const Content = styled.div`
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  margin-top: 2px;
+  padding-left: 59px;
+`;
 
 export const Header = styled.div``;
+
+export const Dot = styled.div``;
 
 export const Description = styled.div``;
 
@@ -44,3 +78,7 @@ export const CommentIcon = styled.div``;
 export const RetweetIcon = styled.div``;
 
 export const LikeIcon = styled.div``;
+
+export const ChatIcon = styled(Chat)``;
+
+export const FavoriteIcon = styled(Favorite)``;

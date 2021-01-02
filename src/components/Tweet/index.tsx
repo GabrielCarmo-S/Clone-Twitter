@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container, Retweeted, RocketseatIcon, Body, Avatar, Content, Header, Description, ImageContent, Icons, Status, CommentIcon, RetweetIcon, LikeIcon} from './styles';
+import { Container, Retweeted, RocketseatIcon, Body, Avatar, Content, Header, Description, ImageContent, Icons, Status, CommentIcon, RetweetIcon, LikeIcon, Dot} from './styles';
 
 const Tweet: React.FC = () => {
   return (
@@ -17,7 +17,7 @@ const Tweet: React.FC = () => {
           <Header>
             <strong>Gabriel Carmo</strong>
             <span>@gabrielcs</span>
-            {/* <Dot /> */}
+            <Dot />
             <time>04 Ago</time>
           </Header>
 
