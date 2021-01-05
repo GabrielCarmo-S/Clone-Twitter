@@ -4,7 +4,7 @@ UI Clone - Responsive Twitter
 
 <p align="center">Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada <a href="https://www.youtube.com/watch?v=K-8z_4xvT3o">aqui</a>, pela <a href="https://rocketseat.com.br/">Rocketseat</a>, para fins de estudos.</p>
 
-<p>Para testar a interface do <a href="https://quirky-tesla-58b1d1.netlify.app">Twitter Clone</p>
+<p align="center">Para testar a interface do <a href="https://quirky-tesla-58b1d1.netlify.app">Twitter Clone</p>
 
 <hr>
 
