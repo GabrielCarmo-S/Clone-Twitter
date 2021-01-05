@@ -4,6 +4,8 @@ UI Clone - Responsive Twitter
 
 <p align="center">Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada <a href="https://www.youtube.com/watch?v=K-8z_4xvT3o">aqui</a>, pela <a href="https://rocketseat.com.br/">Rocketseat</a>, para fins de estudos.</p>
 
+<p>Para testar a interface do <a href="https://quirky-tesla-58b1d1.netlify.app">Twitter Clone</p>
+
 <hr>
 
 ## ✨ Stack utilizada
@@ -16,7 +18,6 @@ UI Clone - Responsive Twitter
 
 <p>Álem de colocar meus conhecimentos em React.JS em prática, pude aprender mais sobre TypeScript, novos conceitos do Styled Components 
 e principalmente a utilização do Git nos meus projetos. Durante todo o processo de criação eu realizava commits através do terminal e a integração deste projeto para o meu Github.</p>
-
 
 <p>Valeu, <a href="https://github.com/guilhermerodz">Guilherme Rodz</a>! :D </p>
 <hr>
