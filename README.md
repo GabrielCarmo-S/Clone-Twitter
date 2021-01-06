@@ -10,9 +10,9 @@ UI Clone - Responsive Twitter
 
 ## ✨ Stack utilizada
 
--  ~ React.js
--  ~ Styled Components
--  ~ TypeScript
+-  React.js
+-  Styled Components
+-  TypeScript
 
 ## ✨ O que eu aprendi?
 
