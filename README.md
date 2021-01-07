@@ -19,7 +19,6 @@ UI Clone - Responsive Twitter
 <p>Álem de colocar meus conhecimentos em React.JS em prática, pude aprender mais sobre TypeScript, novos conceitos do Styled Components 
 e principalmente a utilização do Git nos meus projetos. Durante todo o processo de criação eu realizava commits através do terminal e a integração deste projeto para o meu Github.</p>
 
-<p>Valeu, <a href="https://github.com/guilhermerodz">Guilherme Rodz</a>! :D </p>
 <hr>
 
 <h4 align="center"> Feito por Gabriel Carmo </h4>
