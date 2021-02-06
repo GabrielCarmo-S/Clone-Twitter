@@ -14,7 +14,7 @@
 
 Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui, pela Rocketseat, para fins de estudos.
 
-Para testar a interface do Twitter Clone
+<a href="https://twitter-clone-gabrielcarmo-s.netlify.app/" align="center">Para testar a interface do Twitter Clone</a>
 
 ## :rocket: Tecnologias
 
