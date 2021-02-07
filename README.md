@@ -15,12 +15,12 @@
 Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui, pela Rocketseat, para fins de estudos.
 
 <div align="center">
-  <img alt="design do projeto" height="425" src="./github/m1.gif" />
+  <img alt="design do projeto" height="425" src="./public/m1.gif" />
 </div>
 
 <div align="center">
-  <img alt="demo-web" height="425" src="./github/m1.gif" />
-  <img alt="demo-mobile" height="425" src="./github/m2.gif" />
+  <img alt="demo-web" height="425" src="./public/m2.gif" />
+  <img alt="demo-mobile" height="425" src="./public/m3.gif" />
 </div>
 
 <a href="https://twitter-clone-gabrielcarmo-s.netlify.app/" align="center">Para testar a interface do Twitter Clone</a>
