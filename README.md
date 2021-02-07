@@ -23,6 +23,8 @@ Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui
   <img alt="demo-mobile" height="425" src="./public/m3.gif" />
 </div>
 
+<hr />
+
 <a href="https://twitter-clone-gabrielcarmo-s.netlify.app/" align="center">Para testar a interface do Twitter Clone</a>
 
 ## :rocket: Tecnologias
