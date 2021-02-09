@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>UI Clone - Responsive Twitter<br/>
-      Node.js | ReactJS
+        ReactJS
 </h1>
 
 <p align="center">
