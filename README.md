@@ -20,7 +20,7 @@ Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui
 
 <hr/>  
   
-<div>
+<div align="center">
   <img align="left" alt="demo-web" height="425" width="690" src="./public/m2.gif" />
   <img align"right" alt="demo-mobile" height="425" src="./public/m3.gif" />
 </div>
