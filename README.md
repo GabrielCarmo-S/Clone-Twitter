@@ -18,12 +18,17 @@ Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui
   <img alt="design do projeto" height="425" width="100%" src="./public/m1.gif" />
 </div>
 
-<hr/>  
+
   
 <div align="center">
-  <img align="left" alt="demo-web" height="425" width="750" src="./public/m2.gif" />
-  <img align"right" alt="demo-mobile" height="425" src="./public/m3.gif" />
+  <img alt="demo-web" height="425" width="750" src="./public/m2.gif" />
 </div>
+
+## Tela Mobile
+<div align="center">
+  <img alt="demo-mobile" height="425" src="./public/m3.gif" />
+</div>
+
 
 <hr />
 
