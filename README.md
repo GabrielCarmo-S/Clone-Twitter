@@ -15,18 +15,19 @@
 Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui, pela Rocketseat, para fins de estudos.
 
 <div align="center">
-  <img alt="design do projeto" height="425" width="100%" src="./public/m1.gif" />
+  <img alt="design do projeto" height="525" width="100%" src="./public/m1.gif" />
 </div>
 
 
   
 <div align="center">
-  <img alt="demo-web" height="425" width="750" src="./public/m2.gif" />
+  <img alt="demo-web" height="525" width="100%" src="./public/m2.gif" />
 </div>
+
 
 ## Tela Mobile
 <div align="center">
-  <img alt="demo-mobile" height="425" src="./public/m3.gif" />
+  <img alt="demo-mobile" height="525" src="./public/m3.gif" />
 </div>
 
 
