@@ -12,7 +12,7 @@
 
 ## :bookmark: Sobre
 
-Este projeto é um clone responsivo do Twitter. A vídeo aula foi publicada aqui, pela Rocketseat, para fins de estudos.
+Este projeto é um clone responsivo do Twitter.
 
 <div align="center">
   <img alt="design do projeto" height="525" width="100%" src="./public/m1.gif" />
