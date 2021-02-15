@@ -38,7 +38,6 @@ Este projeto é um clone responsivo do Twitter.
 ## :rocket: Tecnologias
 
 -  [Typescript](https://www.typescriptlang.org/)
--  [Node.js](https://nodejs.org/en/)
 -  [ReactJS](https://reactjs.org/)
 
 ## :boom: Como Executar
